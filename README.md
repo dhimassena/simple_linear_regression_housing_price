@@ -1,1 +1,8 @@
-# simple_linear_regression_housing_price
+```
+dhimassr@gmail.com
+```
+
+Dataset:
+```
+(https://www.kaggle.com/datasets/pramudyadika/yogyakarta-housing-price-ndonesia)
+```
